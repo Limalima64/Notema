@@ -1,0 +1,64 @@
+.containerModif {
+    max-width: 600px;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 100px;
+    border-radius: 50px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+}
+
+.titreInfosModif {
+    text-align: center;
+    font-size: 1.5em;
+    color: #333;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+.formulaireModif {
+    text-align: center;
+    max-width: 400px;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #847f7f;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    background-color: #ffffff;
+    color: #000000;
+    box-shadow: 0 0 50px rgba(135, 134, 134, 0.5);
+}
+
+.formulaireModif input {
+    text-align: center;
+    max-width: 600px;
+    border-radius: 20px;
+    border: 3px solid #828282;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.formulaireModif label {
+    font-style: italic;
+    margin-bottom: 8px;
+}
+
+.formulaireModif input:focus {
+    outline: none;
+    border: 3px solid #000000;
+}
+
+.buttonFormulaireModifNote:hover {
+    background-color: #4caf50;
+}
+
+.inputNoteModif {
+    border: 3px solid #828282;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.formulaireModif .inputNoteModif:focus{
+    outline: none;
+    border: 3px solid #000000;
+}
